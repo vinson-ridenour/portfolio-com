@@ -122,7 +122,7 @@ a,
 }
 
 /* ---------------------------------------------- /*
- * Inputs styles
+ * Input styles
 /* ---------------------------------------------- */
 
 .form-control {
@@ -224,43 +224,6 @@ a,
 
 .alert {
 	border: 0;
-}
-
-/* ---------------------------------------------- /*
- * Skill-bars
-/* ---------------------------------------------- */
-
-.skill-bar {
-	background: #C4C4C4;
-	display: table;
-	height: 4px;
-	width: 100%;
-	margin: 10px -2px 20px -2px;
-}
-
-.skill-bar .skill-rate-on {
-	background: #353535;
-}
-
-.skill-rate-on, .skill-rate-off {
-	display: table-cell;
-	border-left: 2px solid #FFF;
-	border-right: 2px solid #FFF;
-}
-
-/* ---------------------------------------------- /*
- * Progress bars
-/* ---------------------------------------------- */
-
-.progress {
-	background: #E5E5E5;
-	margin-top: 10px;
-	margin-bottom: 20px;
-}
-
-.progress-bar {
-	background: #353535;
-	box-shadow: none;
 }
 
 /* ---------------------------------------------- /*
@@ -582,20 +545,6 @@ h3 > .fa {
 
 .stat .stat-icon i {
 	margin-right: 10px;
-}
-
-/* ---------------------------------------------- /*
- * Service
-/* ---------------------------------------------- */
-
-.service {
-	margin: 0 0 40px;
-}
-
-.service .icon {
-	font-size: 32px;
-	margin: 0 0 5px;
-	color: #222;
 }
 
 /* ---------------------------------------------- /*
